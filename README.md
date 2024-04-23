@@ -1,8 +1,10 @@
 
 <h1 align="center">Hi 👋, I'm Yijia</h1>
-<h3 align="center">To be passionate data analyst</h3>
+<h3 align="center">To be a passionate data analyst</h3>
 
-- 🔭 I’m currently working on **Data Analytics**
+- 👸 Student in **Nanyang Technological University**
+
+- 🔭 Work on **Data Analytics**
 
 - 🌱 I’m currently learning **Machine Learning and Deep Learning**
 
